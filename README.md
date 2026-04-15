@@ -1,7 +1,6 @@
 # 🎓 Smart Student Result Prediction System
 
-**Department of Computer Science**  
-CLO-01 / CLO-02 | PLO-02 / PLO-03 | P3 / P4
+
 
 ---
 
